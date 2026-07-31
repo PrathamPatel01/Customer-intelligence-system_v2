@@ -509,7 +509,7 @@ with tab_single:
 """, unsafe_allow_html=True)
 
 # ─────────────────────────────────────────────
-# TAB 2 — Batch Scoring
+# TAB 2 — Batch Scoringg
 # ─────────────────────────────────────────────
 with tab_batch:
     if not st.session_state.batch_run:
@@ -632,7 +632,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 
 
-# import ioo
+# import iooo
 # import json
 # import joblib
 # import pandas as pd
